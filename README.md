@@ -1,0 +1,2 @@
+# codeWarsChallenge
+Solutions Js Algorithm 
